@@ -39,6 +39,8 @@ You're reading it!
 
 All the codes are in the Jupyter notebook "Project_Pipeline.ipynb". I wil use cell number as the reference of code locatoin. There are 26 cells in total.
 
+If you cannot open Project_Pipeline.ipynb, please use "Project_Pipeline.pdf" or "Project_Pipeline.html" instead.
+
 ---
 
 ## Camera Calibration
